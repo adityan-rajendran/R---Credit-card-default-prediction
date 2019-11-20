@@ -1,2 +1,2 @@
-# Credit Card Default Prediction
-This project aims at developing a model to predict payment default of Taiwanese credit clients using their financial records spannign over 6 months consisting of over 25 financial credit card metrics.
+# Credit Card Default Prediction - INFORMS Analytics Challenge
+This project aims at developing a model to predict payment default of Taiwanese credit clients using their financial records spanning over 6 months (April 2005 - September 2005) consisting of over 25 financial credit card metrics.
