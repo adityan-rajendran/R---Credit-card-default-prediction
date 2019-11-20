@@ -1,5 +1,4 @@
 ---
-title: "BUAN6357: Project"
 author: "Adityan Rajendran (AXR180073)"
 output: html_document: 
 theme: readable
